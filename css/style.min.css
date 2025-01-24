@@ -6,7 +6,7 @@
     --box-bottom-height-int: 33;
     --box-top-height-pct: calc(var(--box-top-height-int) * 1%);
     --box-bottom-height-pct: calc(var(--box-bottom-height-int) * 1%);
-    --colV1: #5f5f5f;
+    --colV1: #D8971E;
     --colV2: #c32d2d;
     --colV3: #3c646e;
     --colV4: #ba7b3d;
@@ -2858,7 +2858,7 @@ video::-webkit-media-controls {
     touch-action: none;
 }
 .v1.darkmode #box-bottom #box-picto .picto {
-    background-color: #666;
+    background-color: none;
 }
 .v2.darkmode #box-bottom #box-picto .picto {
     background-color: #666;
@@ -2932,11 +2932,17 @@ video::-webkit-media-controls {
 #box-bottom #box-picto .picto#picto19 .bck {
     background-position: calc((100% / 19) * 19) 0;
 }
+#box-bottom #box-picto .picto#picto20 .bck {
+    background-position: calc((100% / 19) * 20) 0;
+}
+#box-bottom #box-picto .picto#picto21 .bck {
+    background-position: calc((100% / 19) * 21) 0;
+}
 .picto .hitzone {
-    width: 130%;
-    left: -15%;
-    height: 130%;
-    top: -15%;
+    width: 132%;
+    left: -16%;
+    height: 132%;
+    top: -16%;
 }
 #box-bottom #box-picto .picto.drag {
     z-index: 1;
