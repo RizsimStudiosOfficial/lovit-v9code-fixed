@@ -2876,67 +2876,67 @@ video::-webkit-media-controls {
     background-position: calc((100% / 19) * 0) 0;
 }
 #box-bottom #box-picto .picto#picto1 .bck {
-    background-position: calc((100% / 19) * 1) 0;
+    background-position: calc((100% / 21) * 1) 0;
 }
 #box-bottom #box-picto .picto#picto2 .bck {
-    background-position: calc((100% / 19) * 2) 0;
+    background-position: calc((100% / 21) * 2) 0;
 }
 #box-bottom #box-picto .picto#picto3 .bck {
-    background-position: calc((100% / 19) * 3) 0;
+    background-position: calc((100% / 21) * 3) 0;
 }
 #box-bottom #box-picto .picto#picto4 .bck {
-    background-position: calc((100% / 19) * 4) 0;
+    background-position: calc((100% / 21) * 4) 0;
 }
 #box-bottom #box-picto .picto#picto5 .bck {
-    background-position: calc((100% / 19) * 5) 0;
+    background-position: calc((100% / 21) * 5) 0;
 }
 #box-bottom #box-picto .picto#picto6 .bck {
-    background-position: calc((100% / 19) * 6) 0;
+    background-position: calc((100% / 21) * 6) 0;
 }
 #box-bottom #box-picto .picto#picto7 .bck {
-    background-position: calc((100% / 19) * 7) 0;
+    background-position: calc((100% / 21) * 7) 0;
 }
 #box-bottom #box-picto .picto#picto8 .bck {
-    background-position: calc((100% / 19) * 8) 0;
+    background-position: calc((100% / 21) * 8) 0;
 }
 #box-bottom #box-picto .picto#picto9 .bck {
-    background-position: calc((100% / 19) * 9) 0;
+    background-position: calc((100% / 21) * 9) 0;
 }
 #box-bottom #box-picto .picto#picto10 .bck {
-    background-position: calc((100% / 19) * 10) 0;
+    background-position: calc((100% / 18.9) * 9) 0;
 }
 #box-bottom #box-picto .picto#picto11 .bck {
-    background-position: calc((100% / 19) * 11) 0;
+    background-position: calc((100% / 18.9) * 9.9) 0;
 }
 #box-bottom #box-picto .picto#picto12 .bck {
-    background-position: calc((100% / 19) * 12) 0;
+    background-position: calc((100% / 17.5) * 10) 0;
 }
 #box-bottom #box-picto .picto#picto13 .bck {
-    background-position: calc((100% / 19) * 13) 0;
+    background-position: calc((100% / 17.6) * 10.9) 0;
 }
 #box-bottom #box-picto .picto#picto14 .bck {
-    background-position: calc((100% / 19) * 14) 0;
+    background-position: calc((100% / 18) * 12) 0;
 }
 #box-bottom #box-picto .picto#picto15 .bck {
-    background-position: calc((100% / 19) * 15) 0;
+    background-position: calc((100% / 21) * 15) 0;
 }
 #box-bottom #box-picto .picto#picto16 .bck {
-    background-position: calc((100% / 19) * 16) 0;
+    background-position: calc((100% / 21) * 16) 0;
 }
 #box-bottom #box-picto .picto#picto17 .bck {
-    background-position: calc((100% / 19) * 17) 0;
+    background-position: calc((100% / 21) * 17) 0;
 }
 #box-bottom #box-picto .picto#picto18 .bck {
-    background-position: calc((100% / 19) * 18) 0;
+    background-position: calc((100% / 21) * 18) 0;
 }
 #box-bottom #box-picto .picto#picto19 .bck {
-    background-position: calc((100% / 19) * 19) 0;
+    background-position: calc((100% / 18.8) * 17) 0;
 }
 #box-bottom #box-picto .picto#picto20 .bck {
-    background-position: calc((100% / 19) * 20) 0;
+    background-position: calc((100% / 18.9) * 18) 0;
 }
 #box-bottom #box-picto .picto#picto21 .bck {
-    background-position: calc((100% / 19) * 21) 0;
+    background-position: calc((100% / 19) * 19) 0;
 }
 .picto .hitzone {
     width: 132%;
@@ -3491,7 +3491,7 @@ video::-webkit-media-controls {
 .pop#pop-mod .container #img-modcredit {
 	width: 600px;
 	height: 340px;
-    background-image: url(../img/creditshit/credit-rizdidcodeong.png);
+    background-image: url(../img/creditshit/lovitcredits.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
